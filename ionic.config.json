@@ -1,0 +1,8 @@
+{
+  "name": "LipigasPortusApp",
+  "app_id": "c388bbc6",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
