@@ -11,14 +11,18 @@
 
   "MAP_TITLE": "Mapa",
 
-  "TUTORIAL_SLIDE1_TITLE": "Bienvenido/a al Ionic Super Starter",
-  "TUTORIAL_SLIDE1_DESCRIPTION": "El <b>Ionic Super Starter</b> es un starter de Ionic completo con muchas páginas preconstruidas y mejores prácticas.",
+  "TUTORIAL_SLIDE1_TITLE": "Bienvenido a nuestra nueva App <b>Lipigas Portus</b>",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "Esta nueva aplicacion te permitirá <b>revisar y gestionar todas tus tareas</b> mediante la plataforma que quieras",
 
-  "TUTORIAL_SLIDE2_TITLE": "Cómo usar el Super Starter",
-  "TUTORIAL_SLIDE2_DESCRIPTION": "Monta los varios tipos de página que quieras y quita los que no. Hemos incluido muchas estructuras de página comunes en apps móviles, como páginas de inicio de sesión y registro, pestañas, y esta página de tutorial.",
+  "TUTORIAL_SLIDE2_TITLE": "¿Cómo usar la nueva App <b>Lipigas Portus?</b>",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Muy Fácil!!! <br>1- Primero inicia sesión. <br>2- Luego ingresa a cualquiera de las opciones que te aparecerán. <br>3- Finalmente guarda la actividad que realizaste en la aplicación para que ésta quede registrada.",
 
-  "TUTORIAL_SLIDE3_TITLE": "Empezando",
-  "TUTORIAL_SLIDE3_DESCRIPTION": "¿Necesitas ayuda? Échale un vistazo al README del Super Starter para ver el tutorial completo.",
+  "TUTORIAL_SLIDE3_TITLE": "¿Necesitas ayuda?",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "Selecciona la opción <br><b>'ayuda y soporte'</b> <br>para que nuestro equipo se comunique contigo",
+
+  "TUTORIAL_SLIDE4_TITLE": "¿Listo para comenzar? ;)",
+
+  "WELCOME_INTRO": "Bienvenido!!! Vamos a comenzar!!! :)",
 
   "SETTINGS_TITLE": "Ajustes",
   "SETTINGS_OPTION1": "Opción 1",
@@ -28,7 +32,7 @@
 
   "SETTINGS_PAGE_PROFILE": "Editar Perfil",
 
-  "WELCOME_TITLE": "Bienvenido/a",
+  "WELCOME_TITLE": "Bienvenido/a a la nueva App Lipigas Portus :)",
 
   "LOGIN_TITLE": "Iniciar sesión",
   "LOGIN_ERROR": "No se ha podido iniciar sesión. Por favor revisa la información de la cuenta e inténtalo de nuevo.",

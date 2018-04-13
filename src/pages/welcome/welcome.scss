@@ -6,7 +6,7 @@ page-welcome {
     height: 45%;
     z-index: 1;
     background-repeat: repeat-x;
-    animation: animatedBackground 40s linear infinite;
+    animation: animatedBackground 20s linear infinite;
   }
 
   @keyframes animatedBackground {
@@ -22,10 +22,10 @@ page-welcome {
   }
   .splash-logo {
     margin: auto;
-    background: url('../assets/img/appicon.png') repeat transparent;
+    background: url('../assets/img/lipicon.png') repeat transparent;
     background-size: 100%;
-    width: 128px;
-    height: 128px;
+    width: 80px;
+    height: 80px;
   }
   .splash-intro {
     font-size: 18px;
